@@ -91,6 +91,18 @@ footer p{
 	float: right;
 }
 
+.logonav {
+	margin-left:-60px;
+	width:100px;
+	height:50px;
+}
+
+.navbarfix {
+	height:45px;
+	padding:0;
+	margin:0;
+}
+
 /* media queries 
 
 @media(max-width: 1200px){
